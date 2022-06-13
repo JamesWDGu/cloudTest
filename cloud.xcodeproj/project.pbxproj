@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		643A9F2A28536F7400E82FCD /* cloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		643A9F2A28536F7400E82FCD /* JGCloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JGCloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		643A9F2D28536F7400E82FCD /* cloudApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cloudApp.swift; sourceTree = "<group>"; };
 		643A9F2F28536F7400E82FCD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		643A9F3128536F7A00E82FCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		643A9F2B28536F7400E82FCD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				643A9F2A28536F7400E82FCD /* cloud.app */,
+				643A9F2A28536F7400E82FCD /* JGCloud.app */,
 				643A9F3A28536F7A00E82FCD /* cloudTests.xctest */,
 				643A9F4428536F7A00E82FCD /* cloudUITests.xctest */,
 			);
@@ -144,7 +144,7 @@
 			);
 			name = cloud;
 			productName = cloud;
-			productReference = 643A9F2A28536F7400E82FCD /* cloud.app */;
+			productReference = 643A9F2A28536F7400E82FCD /* JGCloud.app */;
 			productType = "com.apple.product-type.application";
 		};
 		643A9F3928536F7A00E82FCD /* cloudTests */ = {
@@ -431,7 +431,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = cc.jamesgu.cloud;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = JGCloud;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -460,7 +460,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = cc.jamesgu.cloud;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = JGCloud;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
